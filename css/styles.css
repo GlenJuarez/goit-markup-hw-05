@@ -386,17 +386,7 @@ footer > container {
   align-items: flex-start;
 }
 
-.visited_2::after {
-  position: absolute;
-  content: "";
-  width: 48px;
-  background-color: #2196f3;
-  height: 4px;
-  border-radius: 2px;
-  top: 45px;
-  left: 0;
-  right: 0;
-   }
+
 
 .directions {
   display: flex;
@@ -632,7 +622,6 @@ footer > .container {
 .visited::after {
   position: absolute;
   content: "";
-  width: 48px;
   background-color: #2196f3;
   height: 4px;
   border-radius: 2px;
